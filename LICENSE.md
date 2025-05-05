@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+            int main() []
     int torre, i = 1;
     int bispo, e = 1;
     int rainha;
